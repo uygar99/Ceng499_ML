@@ -1,0 +1,4 @@
+I choose 172.24.0.10 as IP address.
+
+I implemented go-back-N, timers and ACKs but I could not implemented them properly so I put them in
+comment lines. My code works appropriate on carrying messages by separating into packets. 

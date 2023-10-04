@@ -1,0 +1,1 @@
+{"rsync":{"/home/vagrant/code":{"type":"rsync","guestpath":"/home/vagrant/code","hostpath":"C:/Users/Uygar/Desktop/socket/code","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Uygar/Desktop/socket","disabled":false,"__vagrantfile":true}}}

@@ -1,0 +1,195 @@
+C:\Users\Uygar\AppData\Local\Programs\Python\Python310\python.exe C:\Users\Uygar\Desktop\499HW1\part3.py 
+Test accuracy : 82.15
+Test accuracy : 84.61
+Test accuracy : 81.84
+Test accuracy : 83.33
+Test accuracy : 84.95
+Test accuracy : 83.40
+Test accuracy : 83.27
+Test accuracy : 81.63
+Test accuracy : 81.12
+Test accuracy : 82.46
+Mean of test accuracies:  82.8759994506836
+Confidence interval:  81.12000274658203 84.94999694824219
+Test accuracy : 79.22
+Test accuracy : 84.05
+Test accuracy : 81.72
+Test accuracy : 80.95
+Test accuracy : 82.73
+Test accuracy : 83.03
+Test accuracy : 80.24
+Test accuracy : 80.42
+Test accuracy : 81.14
+Test accuracy : 80.65
+Mean of test accuracies:  81.41500091552734
+Confidence interval:  79.22000122070312 84.05000305175781
+Test accuracy : 81.81
+Test accuracy : 80.30
+Test accuracy : 79.47
+Test accuracy : 82.72
+Test accuracy : 84.46
+Test accuracy : 84.88
+Test accuracy : 83.69
+Test accuracy : 84.90
+Test accuracy : 80.35
+Test accuracy : 82.05
+Mean of test accuracies:  82.46299743652344
+Confidence interval:  79.47000122070312 84.9000015258789
+Test accuracy : 82.08
+Test accuracy : 81.54
+Test accuracy : 82.43
+Test accuracy : 82.45
+Test accuracy : 79.92
+Test accuracy : 83.46
+Test accuracy : 82.56
+Test accuracy : 79.78
+Test accuracy : 78.79
+Test accuracy : 84.66
+Mean of test accuracies:  81.7669906616211
+Confidence interval:  78.79000091552734 84.66000366210938
+Test accuracy : 82.95
+Test accuracy : 81.74
+Test accuracy : 82.13
+Test accuracy : 83.90
+Test accuracy : 82.82
+Test accuracy : 80.14
+Test accuracy : 83.88
+Test accuracy : 83.94
+Test accuracy : 82.65
+Test accuracy : 78.06
+Mean of test accuracies:  82.22100067138672
+Confidence interval:  78.05999755859375 83.94000244140625
+Test accuracy : 83.26
+Test accuracy : 81.83
+Test accuracy : 80.80
+Test accuracy : 79.23
+Test accuracy : 81.00
+Test accuracy : 81.72
+Test accuracy : 80.89
+Test accuracy : 81.97
+Test accuracy : 83.18
+Test accuracy : 82.78
+Mean of test accuracies:  81.6659927368164
+Confidence interval:  79.2300033569336 83.26000213623047
+Test accuracy : 81.06
+Test accuracy : 81.63
+Test accuracy : 78.35
+Test accuracy : 79.40
+Test accuracy : 81.56
+Test accuracy : 82.44
+Test accuracy : 80.23
+Test accuracy : 82.71
+Test accuracy : 82.50
+Test accuracy : 82.67
+Mean of test accuracies:  81.25499725341797
+Confidence interval:  78.3499984741211 82.70999908447266
+Test accuracy : 83.13
+Test accuracy : 82.49
+Test accuracy : 83.51
+Test accuracy : 82.59
+Test accuracy : 82.52
+Test accuracy : 80.57
+Test accuracy : 82.19
+Test accuracy : 83.99
+Test accuracy : 80.97
+Test accuracy : 80.71
+Mean of test accuracies:  82.26699829101562
+Confidence interval:  80.56999969482422 83.98999786376953
+Test accuracy : 81.86
+Test accuracy : 79.24
+Test accuracy : 83.48
+Test accuracy : 80.24
+Test accuracy : 83.62
+Test accuracy : 83.19
+Test accuracy : 82.57
+Test accuracy : 82.98
+Test accuracy : 83.44
+Test accuracy : 81.29
+Mean of test accuracies:  82.19099426269531
+Confidence interval:  79.23999786376953 83.62000274658203
+Test accuracy : 79.86
+Test accuracy : 81.73
+Test accuracy : 80.96
+Test accuracy : 81.10
+Test accuracy : 80.63
+Test accuracy : 81.72
+Test accuracy : 81.80
+Test accuracy : 82.80
+Test accuracy : 81.76
+Test accuracy : 80.56
+Mean of test accuracies:  81.29199981689453
+Confidence interval:  79.86000061035156 82.80000305175781
+Test accuracy : 78.24
+Test accuracy : 82.08
+Test accuracy : 79.93
+Test accuracy : 80.44
+Test accuracy : 81.78
+Test accuracy : 84.83
+Test accuracy : 85.07
+Test accuracy : 84.03
+Test accuracy : 81.21
+Test accuracy : 81.84
+Mean of test accuracies:  81.94500732421875
+Confidence interval:  78.23999786376953 85.06999969482422
+Test accuracy : 82.40
+Test accuracy : 80.34
+Test accuracy : 81.22
+Test accuracy : 82.50
+Test accuracy : 79.03
+Test accuracy : 82.57
+Test accuracy : 82.47
+Test accuracy : 83.32
+Test accuracy : 80.98
+Test accuracy : 82.62
+Mean of test accuracies:  81.74500274658203
+Confidence interval:  79.02999877929688 83.31999969482422
+Test accuracy : 80.69
+Test accuracy : 83.76
+Test accuracy : 82.09
+Test accuracy : 78.53
+Test accuracy : 82.37
+Test accuracy : 70.63
+Test accuracy : 81.06
+Test accuracy : 84.52
+Test accuracy : 84.36
+Test accuracy : 80.06
+Mean of test accuracies:  80.80699920654297
+Confidence interval:  70.62999725341797 84.5199966430664
+Test accuracy : 83.37
+Test accuracy : 82.42
+Test accuracy : 78.55
+Test accuracy : 76.06
+Test accuracy : 83.34
+Test accuracy : 81.22
+Test accuracy : 79.92
+Test accuracy : 80.70
+Test accuracy : 79.84
+Test accuracy : 80.99
+Mean of test accuracies:  80.64100646972656
+Confidence interval:  76.05999755859375 83.37000274658203
+Test accuracy : 82.29
+Test accuracy : 81.44
+Test accuracy : 78.06
+Test accuracy : 80.85
+Test accuracy : 78.44
+Test accuracy : 81.19
+Test accuracy : 80.13
+Test accuracy : 80.46
+Test accuracy : 82.68
+Test accuracy : 80.22
+Mean of test accuracies:  80.57600402832031
+Confidence interval:  78.05999755859375 82.68000030517578
+Test accuracy : 83.21
+Test accuracy : 82.67
+Test accuracy : 81.53
+Test accuracy : 81.80
+Test accuracy : 81.78
+Test accuracy : 84.07
+Test accuracy : 83.12
+Test accuracy : 81.99
+Test accuracy : 82.62
+Test accuracy : 82.66
+Mean of test accuracies:  82.54500579833984
+Confidence interval:  81.52999877929688 84.06999969482422
+
+Process finished with exit code 0
